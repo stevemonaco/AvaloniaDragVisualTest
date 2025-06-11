@@ -1,1 +1,1 @@
-![Drag Visual](dragvisual-test.mp4)
+![Drag Visual](dragvisual-test.gif)
